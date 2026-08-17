@@ -4,6 +4,10 @@ A **Streamlit-based Multi Language Translator Application** that allows users to
 
 ---
 <img width="1919" height="950" alt="Screenshot 2025-12-08 145957" src="https://github.com/user-attachments/assets/1e7a7342-1b9b-4df2-93f6-a30c4f511e3a" />
+<img width="1919" height="953" alt="Screenshot 2026-08-17 220738" src="https://github.com/user-attachments/assets/47521216-7e74-446c-9488-de5ca49ed546" />
+
+<img width="1919" height="953" alt="Screenshot 2026-08-17 220806" src="https://github.com/user-attachments/assets/b53cf89f-29f2-4743-9752-3b1c26d7accf" />
+
 
 ## 🚀 **FEATURES**
 
@@ -28,19 +32,20 @@ A **Streamlit-based Multi Language Translator Application** that allows users to
 
 ## 📁 **PROJECT STRUCTURE**
 
+```text
 Multiple_Language_Translator/
 │
 ├── pages/
-│ ├── 1_Translator.py # Translator & TTS logic
-│ └── 2_About.py # About / Help page
+│   ├── 1_Translator.py
+│   └── 2_About.py
 │
-├── app.py # Main Streamlit app
-├── bg.jpg # Background image
-├── language.csv # Supported languages list
-├── translated_audio.mp3 # Generated audio file
-├── README.md # Project documentation
-└── .vscode/ # VS Code settings
-
+├── app.py
+├── bg.jpg
+├── language.csv
+├── translated_audio.mp3
+├── README.md
+└── .vscode/
+```
 
 ---
 
